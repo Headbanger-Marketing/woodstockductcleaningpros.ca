@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://woodstockductcleaningpros.ca/sitemap-index.xml
